@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom'
-import silk from  './silk.jpg'
-import alia from  './alia.jpg'
-import skirt from  './skirt.jpg'
+import h1 from  './h1.jpg'
+import h2 from  './h2.jpg'
+import h3 from  './h3.jpg'
 
 
 export const Home = () => {
@@ -19,7 +19,7 @@ export const Home = () => {
                 <h1 className="text-center text-5xl mb-4">Desi Threads</h1>
                 <hr />
 
-                <img  src={silk} alt="Styler" />
+                <img  src={h1} alt="Styler" />
 
 
                 <img src="./h1.jpg" alt="Image" width="350" height="410" className="mb-4" />
