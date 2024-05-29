@@ -67,7 +67,7 @@ export const Product = () => {
                      </div>
 
                     </div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 absolute left-[50%] bottom-[-6%]">
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 absolute left-[50%] bottom-[-7%]">
                     <div className="flex flex-col items-center bg-white p-4 rounded-lg shadow-md">
                     <img src={kur2} className="w-full h-auto mb-2" alt="Product" />
                     <div className="bg-green text-white text-xs font-medium uppercase px-2 py-1 rounded">
